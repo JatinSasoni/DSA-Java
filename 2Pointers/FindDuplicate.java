@@ -1,5 +1,5 @@
 public class FindDuplicate {
-    public int findDuplicate(int[] nums) {
+    public static int findDuplicate(int[] nums) {
         int slow = nums[0];
         int fast = nums[nums[0]];
         while(slow != fast){
@@ -16,6 +16,7 @@ public class FindDuplicate {
     }
 
     public static void main(String[] args) {
-        
+        int []arr={1,3,4,2,2};
+        System.err.println(findDuplicate(arr));
     }
 }
