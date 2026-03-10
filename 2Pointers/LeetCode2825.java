@@ -1,4 +1,4 @@
-class Solution {
+class LeetCode2825 {
     public boolean canMakeSubsequence(String str1, String str2) {
         int m = str1.length();
         int n = str2.length();
