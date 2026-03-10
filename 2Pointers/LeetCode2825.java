@@ -1,4 +1,4 @@
-class LeetCode2825 {
+class LeetCode2825cock {
     public boolean canMakeSubsequence(String str1, String str2) {
         int m = str1.length();
         int n = str2.length();
@@ -10,6 +10,7 @@ class LeetCode2825 {
             }
             i++;
         }
+       
         return j==n;
     }
 }
