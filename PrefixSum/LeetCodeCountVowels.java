@@ -1,3 +1,5 @@
+package PrefixSum;
+
 public class LeetCodeCountVowels {
     public int[] vowelStrings(String[] words, int[][] queries) {
         int sub[] = new int[words.length]; 
