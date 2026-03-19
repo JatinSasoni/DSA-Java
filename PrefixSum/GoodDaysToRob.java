@@ -1,3 +1,5 @@
+package  PrefixSum;
+import java.util.*;
 public class GoodDaysToRob {
     public List<Integer> goodDaysToRobBank(int[] security, int time) {
         // Non-Increasing
