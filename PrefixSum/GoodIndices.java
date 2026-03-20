@@ -1,3 +1,5 @@
+package PrefixSum;
+import java.util.*;
 public class GoodIndices {
     public List<Integer> goodIndices(int[] nums, int k) {
         int n=nums.length;
