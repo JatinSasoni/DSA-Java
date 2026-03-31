@@ -1,4 +1,3 @@
-package SlidingWindow;
 public class LongestSubstring {
     public int lengthOfLongestSubstring(String s) {
         int count[] = new int[128];
