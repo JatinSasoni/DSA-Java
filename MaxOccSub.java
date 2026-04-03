@@ -1,3 +1,4 @@
+import java.util.*;
 public class MaxOccSub {
     public int maxFreq(String s, int maxLetters, int minSize, int maxSize) {
         int n = s.length();
