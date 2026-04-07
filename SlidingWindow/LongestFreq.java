@@ -1,3 +1,4 @@
+import java.util.*;;
 public class LongestFreq {
     public int maxFrequency(int[] nums, int k) {
 		Arrays.sort(nums);
